@@ -1,0 +1,238 @@
+Système de donjon : Les Aventures des Chatons Multiplicateurs
+Liste des 30 Cartes Modulaires : Donjon dans l'Arbre à Chat
+Chaque carte est un carré de 200x200 pixels (ou 10x10 cm), représentant une salle du donjon envahi par des souris. Les portes permettent de connecter les salles entre elles.
+________________________________________
+1. Cartes "Débutant" (Niveau 1)
+1. Concept du Plateau Modulaire
+•	Format : Chaque carte est un carré de 200x200 pixels (ou 10x10 cm si imprimé).
+•	Thèmes : Chaque carte a un thème lié aux chats/chatons (ex : salon, forêt à pelotes, cuisine à poissons, bibliothèque, donjon de souris).
+•	Portes : 2 à 4 portes par carte, placées sur les bords (haut, bas, gauche, droite). Les portes permettent de connecter les cartes entre elles.
+________________________________________
+2. Exemple de Carte : 
+1. Cartes "Débutant" (Niveau 1)
+1. Entrée de l'Arbre
+•	Thème : Entrée de l'arbre à chat, avec des traces de griffes et des pelotes abandonnées.
+•	Portes : 2 (droite, bas).
+•	Décors :
+o	Pelotes éparpillées.
+o	Traces de pattes de souris.
+•	Ambiance : Mystérieuse, couleurs douces.
+2. Salle des Griffoirs
+•	Thème : Salle remplie de griffoirs géants, certains grignotés par les souris.
+•	Portes : 3 (haut, gauche, droite).
+•	Décors :
+o	Griffoirs en forme d'arbre.
+o	Morceaux de fromage.
+•	Ambiance : Ludique, bois et beige.
+3. Réserve de Nourriture
+•	Thème : Salle avec des réserves de croquettes et de poissons séchés, partiellement volées par les souris.
+•	Portes : 2 (gauche, droite).
+•	Décors :
+o	Sacs de croquettes ouverts.
+o	Poissons séchés accrochés.
+•	Ambiance : Désordonnée, couleurs chaudes.
+4. Couloir des Pelotes
+•	Thème : Couloir rempli de pelotes de laine, certaines transformées en nids de souris.
+•	Portes : 4 (haut, bas, gauche, droite).
+•	Décors :
+o	Pelotes de laine de toutes les couleurs.
+o	Petits nids en pelote.
+•	Ambiance : Douce et colorée.
+5. Salle des Jouets Cassés
+•	Thème : Salle avec des jouets de chatons cassés ou modifiés par les souris.
+•	Portes : 2 (haut, bas).
+•	Décors :
+o	Balles de laine défaites.
+o	Souris jouets (fausses).
+•	Ambiance : Triste mais mignonne.
+________________________________________
+2. Cartes "Intermédiaire" (Niveau 2)
+6. Salle des Roues à Souris
+•	Thème : Salle remplie de roues à souris géantes, certaines bloquées par des pelotes.
+•	Portes : 3 (haut, gauche, droite).
+•	Décors :
+o	Roues à souris en bois.
+o	Pelotes coincées dans les roues.
+•	Ambiance : Dynamique, bois et gris.
+7. Bibliothèque Rongée
+•	Thème : Bibliothèque où les livres ont été rongés par les souris.
+•	Portes : 2 (gauche, droite).
+•	Décors :
+o	Livres avec des pages mangées.
+o	Parchemins roulés.
+•	Ambiance : Ancienne, marron et crème.
+8. Cuisine des Souris
+•	Thème : Cuisine improvisée par les souris, avec des restes de fromage et des ustensiles miniatures.
+•	Portes : 3 (haut, gauche, droite).
+•	Décors :
+o	Fromages entamés.
+o	Petites casseroles.
+•	Ambiance : Gourmande, jaune et orange.
+9. Salle des Pièges à Fromage
+•	Thème : Salle avec des pièges à souris géants, certains déclenchés.
+•	Portes : 2 (haut, bas).
+•	Décors :
+o	Pièges à ressort.
+o	Morceaux de fromage.
+•	Ambiance : Tendue, gris et jaune.
+10. Chambre des Trésors Volés
+•	Thème : Chambre où les souris ont entassé des objets volés aux chatons.
+•	Portes : 2 (gauche, droite).
+•	Décors :
+o	Colliers et jouets entassés.
+o	Petits coffres ouverts.
+•	Ambiance : Aventure, doré et marron.
+11. Salle des Tunnels
+•	Thème : Salle avec des tunnels creusés par les souris dans les murs de l'arbre.
+•	Portes : 4 (haut, bas, gauche, droite).
+•	Décors :
+o	Trous dans les murs.
+o	Pelotes traînant.
+•	Ambiance : Sombre, marron et gris.
+12. Arène Miniature
+•	Thème : Arène où les souris organisent des combats avec des objets de chatons.
+•	Portes : 2 (gauche, droite).
+•	Décors :
+o	Mini arène en bois.
+o	Jouets transformés en armes.
+•	Ambiance : Épique, rouge et marron.
+13. Salle des Miroirs Brisés
+•	Thème : Salle avec des miroirs brisés, reflétant des chatons et des souris.
+•	Portes : 3 (haut, gauche, droite).
+•	Décors :
+o	Miroirs fissurés.
+o	Reflets déformés.
+•	Ambiance : Mystérieuse, argent et bleu.
+14. Laboratoire de Fromage
+•	Thème : Laboratoire où les souris expérimentent avec du fromage.
+•	Portes : 2 (haut, bas).
+•	Décors :
+o	Fromages de différentes tailles.
+o	Éprouvettes et fioles.
+•	Ambiance : Scientifique, vert et jaune.
+15. Salle des Nids
+•	Thème : Salle remplie de nids de souris faits de pelotes et de papier.
+•	Portes : 2 (gauche, droite).
+•	Décors :
+o	Nids douillets.
+o	Bébés souris (jouets).
+•	Ambiance : Chaleureuse, beige et marron.
+________________________________________
+3. Cartes "Avancé" (Niveau 3)
+16. Salle du Trône de Fromage
+•	Thème : Salle où le roi des souris trône sur un bloc de fromage géant.
+•	Portes : 4 (haut, bas, gauche, droite).
+•	Décors :
+o	Trône en fromage.
+o	Bannières de souris.
+•	Ambiance : Royale, or et jaune.
+17. Salle des Énigmes Rongées
+•	Thème : Salle avec des énigmes écrites sur des parchemins rongés.
+•	Portes : 3 (haut, gauche, droite).
+•	Décors :
+o	Parchemins à moitié mangés.
+o	Indices cachés.
+•	Ambiance : Intellectuelle, marron et crème.
+18. Salle des Cristaux de Sel
+•	Thème : Salle remplie de cristaux de sel, utilisés par les souris pour conserver leur nourriture.
+•	Portes : 2 (gauche, droite).
+•	Décors :
+o	Cristaux de sel brillants.
+o	Bocaux de conservation.
+•	Ambiance : Étincelante, blanc et bleu.
+19. Salle des Machines à Souris
+•	Thème : Salle avec des machines inventées par les souris pour voler la nourriture des chatons.
+•	Portes : 2 (haut, bas).
+•	Décors :
+o	Engrenages et roues dentées.
+o	Tubes pour transporter les croquettes.
+•	Ambiance : Mécanique, gris et cuivre.
+20. Salle des Cartes au Trésor
+•	Thème : Salle où les souris ont dessiné des cartes pour cacher leurs trésors.
+•	Portes : 3 (haut, gauche, droite).
+•	Décors :
+o	Cartes étalées sur une table.
+o	Encre et plumes.
+•	Ambiance : Aventure, marron et doré.
+21. Salle des Statues de Fromage
+•	Thème : Salle avec des statues sculptées dans du fromage par les souris.
+•	Portes : 4 (haut, bas, gauche, droite).
+•	Décors :
+o	Statues de fromage (chatons et souris).
+o	Outils de sculpture miniatures.
+•	Ambiance : Artistique, jaune et blanc.
+22. Salle des Étoiles Filantes
+•	Thème : Salle où les souris ont accroché des étoiles en papier pour décorer.
+•	Portes : 2 (gauche, droite).
+•	Décors :
+o	Étoiles en papier brillant.
+o	Guirlandes lumineuses.
+•	Ambiance : Magique, bleu nuit et argent.
+23. Salle des Armures de Souris
+•	Thème : Salle où les souris ont fabriqué des armures avec des matériaux volés.
+•	Portes : 3 (haut, gauche, droite).
+•	Décors :
+o	Armures en papier et bois.
+o	Boucliers en écorces.
+•	Ambiance : Guerrière, marron et gris.
+24. Salle des Parchemins Anciens
+•	Thème : Salle avec des parchemins anciens décrivant l'histoire des souris.
+•	Portes : 2 (haut, bas).
+•	Décors :
+o	Parchemins enroulés.
+o	Encres et plumes.
+•	Ambiance : Historique, marron et crème.
+25. Salle des Portails Miniatures
+•	Thème : Salle avec des portails miniatures menant à d'autres parties de l'arbre.
+•	Portes : 2 (gauche, droite).
+•	Décors :
+o	Portails en forme de trous de souris.
+o	Lumière traversant les portails.
+•	Ambiance : Mystique, violet et bleu.
+________________________________________
+4. Cartes "Légendaire" (Niveau 4)
+26. Salle du Trône du Roi des Souris
+•	Thème : Salle du trône où le roi des souris règne sur son royaume de fromage.
+•	Portes : 2 (gauche, droite).
+•	Décors :
+o	Trône en fromage doré.
+o	Couronne de roi des souris.
+•	Ambiance : Royale, or et rouge.
+27. Salle du Trésor Royal
+•	Thème : Salle où les souris gardent leurs trésors les plus précieux.
+•	Portes : 4 (haut, bas, gauche, droite).
+•	Décors :
+o	Coffres remplis de fromage et d'objets brillants.
+o	Pièces d'or (en fromage).
+•	Ambiance : Luxueuse, doré et jaune.
+28. Salle des Gardiens
+•	Thème : Salle gardée par des souris en armure, prêtent à défendre leur territoire.
+•	Portes : 2 (haut, bas).
+•	Décors :
+o	Souris gardiennes avec des lances en bois.
+o	Pièges prêts à se déclencher.
+•	Ambiance : Dangereuse, gris et rouge.
+29. Salle des Énigmes Ultimes
+•	Thème : Salle avec les énigmes les plus difficiles, protégées par des souris savantes.
+•	Portes : 2 (gauche, droite).
+•	Décors :
+o	Énigmes écrites sur des tablettes de fromage.
+o	Souris en train de réfléchir.
+•	Ambiance : Intellectuelle, violet et or.
+30. Salle de la Victoire
+•	Thème : Salle où les chatons célèbrent leur victoire sur les souris.
+•	Portes : 3 (haut, gauche, droite).
+•	Décors :
+o	Bannières de chatons.
+o	Fromage et pelotes récupérés.
+•	Ambiance : Triomphale, or et vert.
+
+________________________________________
+3. Comment Assembler les Cartes ?
+1.	Imprime les 30 cartes sur du papier épais ou utilise-les en numérique.
+2.	Dispose les cartes aléatoirement pour créer un plateau unique à chaque partie.
+3.	Connecte les portes entre les cartes pour former un parcours cohérent.
+4.	Varie les thèmes pour créer des zones (ex : forêt → village → donjon).
+________________________________________
+Prochaine étape : Veux-tu que je te génère d’autres cartes (ex : "Donjon des Souris", "Cuisine à Poissons") ou des règles pour assembler le plateau ? Ou préfères-tu des conseils pour créer tes propres designs ? 😊
+
